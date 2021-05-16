@@ -34,7 +34,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -64,9 +64,10 @@
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
     <state x="2340" y="275" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1619303535260" />
-    <state x="2061" y="165" key="SettingsEditor" timestamp="1619303794486">
-      <screen x="1600" y="0" width="1920" height="1040" />
+    <state x="302" y="68" key="SettingsEditor" timestamp="1621204823719">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="302" y="68" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1621204823719" />
     <state x="2061" y="165" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1619303794486" />
     <state x="2223" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1620509343557">
       <screen x="1600" y="0" width="1920" height="1040" />
